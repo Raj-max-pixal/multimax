@@ -139,10 +139,10 @@ All Rights Reserved.
 # 📬 Contact
 
 Website:
-Coming Soon
+https://multimax-xi.vercel.app/
 
 Email:
-Coming Soon
+multimax305@gmail.com
 
 GitHub:
 https://github.com/Raj-max-pixal
